@@ -1,0 +1,45 @@
+.navbar-brand{
+    padding-left:10px;
+}
+.iphone{
+    width:100%;
+}
+.iphone:hover{
+    transform: rotate(10deg);
+    transform: scale(1.05);
+    transition-duration: 1s;   
+}
+
+.logo{
+    width:28px;
+    margin-left:20px;
+}
+
+.heading{
+    text-align:center;
+    margin-top:20px;
+}
+.play{
+    width:20px;
+    margin-left:0px;    
+    margin-right:5px;
+}
+.appstore{
+    width:20px;
+    margin-left:0px;    
+    margin-right:8px;
+}
+.btn{
+    margin-left:20px;  
+}
+
+#features{
+    margin-top:50px;
+    background-color: black;
+}
+.pro{
+    width:100%;
+}
+.carousel-item{
+    text-align: center; background-color: black;
+}
